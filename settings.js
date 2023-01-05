@@ -30,27 +30,27 @@ global.language = indonesia  //change indonesia to english if you don't understa
 global.botname = "LinuxBotzV2" //namabot kalian
 global.ownername= "YusupKakuu" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.youtube = "https://youtube.com/@YUSUP909" //bebas asal jan hapus
+global.myweb2 = "https://saweria.co/YUSUP909" //bebas
+global.email = "yusup90990@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326","622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['628381'] //premium user
+global.owner = ["6283897390164","62838973901641"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6283897390164" // nomor wa kalian
+global.ownernomerr = "+6283897390164" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '©LinuxMd' //sticker wm ubah
+global.author = 'yusupkakuu' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
-    premium: "10000",
-    free: 100
+    premium: "1000",
+    free: 50
 }
 
 global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
