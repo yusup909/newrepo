@@ -13,11 +13,11 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
-global.autobio = false //auto ganti bio
+global.autoread = true // auto read message
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.userRegister = true 
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -27,8 +27,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "LinuxBotzV2" //namabot kalian
+global.ownername= "YusupKakuu" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
