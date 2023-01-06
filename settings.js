@@ -14,9 +14,9 @@ global.APIKeys = {
 
 // setting 
 global.autoread = true // auto read message
-global.autobio = false //auto ganti bio
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = false 
+global.userRegister = true 
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
@@ -50,7 +50,7 @@ global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
     premium: "1000",
-    free: 50
+    free: 500
 }
 
 global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
